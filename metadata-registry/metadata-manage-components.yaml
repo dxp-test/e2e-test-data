@@ -13,6 +13,6 @@ spec:
       - dxp
       - dxp-test
   team:
-    name: Test Team Name
-    productOwner: test.po@sap.com
-    technicalOwner: test.to@sap.com
+    name: los-macarenas
+    productOwner: leidy.garzon@sap.com
+    technicalOwner: I558780
