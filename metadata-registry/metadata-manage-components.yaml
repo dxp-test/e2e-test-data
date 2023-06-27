@@ -1,0 +1,18 @@
+kind: Component
+metadata:
+  name: metadata-registry-test-component-manage-component
+  displayName: Metadata Registry Test Component (Manage Components Test)
+  description: This is the DXP Metadata Test Component for E2E tests (Manage Components Test)
+  labels:
+    language: whitespace
+spec:
+  boundedContext: test-bounded-context
+  type:
+    name: test-type
+    categories:
+      - dxp
+      - dxp-test
+  team:
+    name: Test Team Name
+    productOwner: test.po@sap.com
+    technicalOwner: test.to@sap.com
