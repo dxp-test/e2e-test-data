@@ -13,6 +13,6 @@ spec:
       - dxp
       - dxp-test
   team:
-    name: los-macarenas
-    productOwner: leidy.garzon@sap.com
-    technicalOwner: I558780
+    name: test-tenant-team # Created in https://github.tools.sap/dxp/charts/blob/master/charts/dxp-accounts/templates/test-data/test-team.yaml
+    productOwner: P000020
+    technicalOwner: test.to@sap.com
