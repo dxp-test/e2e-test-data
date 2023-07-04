@@ -1,7 +1,7 @@
 kind: Component
 metadata:
   name: metadata-registry-test-component-manage-component-github-com-account
-  displayName: Metadata Registry Test Component
+  displayName: Metadata Registry Test Component in Github Com
   description: This is the DXP Metadata Test Component for E2E tests
   labels:
     language: whitespace
