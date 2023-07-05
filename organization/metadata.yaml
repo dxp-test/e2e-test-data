@@ -2,6 +2,7 @@ kind: Project
 metadata:
   tags:
     - test
+    - macarena
     - core-experience
 spec:
   team: 
