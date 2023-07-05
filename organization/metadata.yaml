@@ -1,0 +1,24 @@
+kind: Project
+metadata:
+  tags:
+    - test
+    - core-experience
+spec:
+  team: 
+    name: test-tenant-team # Created in https://github.tools.sap/dxp/charts/blob/master/charts/dxp-accounts/templates/test-data/test-team.yaml
+    productOwner: P000020
+    technicalOwner: superman
+    contactChannels:
+      - channelType: slack
+        value: sap-dxp-public
+        link: https://sap-btp.slack.com/archives/C01D7H7KAFK
+  links:
+    - url: https://jira.tools.sap/browse/DXPFRAME
+      name: Jira Project
+      description: Create ticket in DXPs backlog.
+  docs:
+    techDocsLinks:
+      - name: Docs
+        url: https://sap.live.dxp.k8s.ondemand.com/learning/documentation
+        icon: .sap-icon-help
+        description: Documentation
