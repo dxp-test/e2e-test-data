@@ -20,6 +20,6 @@ spec:
   docs:
     techDocsLinks:
       - name: Docs
-        url: https://sap.live.dxp.k8s.ondemand.com/learning/documentation
+        url: https://portal.hyperspace.tools.sap/learning/documentation
         icon: .sap-icon-help
         description: Documentation
